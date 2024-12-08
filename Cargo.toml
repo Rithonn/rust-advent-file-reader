@@ -1,0 +1,10 @@
+[package]
+name = "rust-advent-file-reader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "rust-advent-file-reader"
+path = "main.rs"
